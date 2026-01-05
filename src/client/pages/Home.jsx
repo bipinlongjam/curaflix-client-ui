@@ -1,8 +1,8 @@
 import React from "react";
-import docPhotos from "../assets/docPhotos.jpg";
-import Features from "../components/Features";
-import Mission from "../components/Mission";
-import "../styles/Home.css"; // External CSS file
+import docPhotos from "../../assets/docPhotos.jpg";
+import Features from "./../components/Features";
+import Mission from "./../components/Mission";
+import "./../styles/Home.css"; 
 
 const Home = () => {
   return (
